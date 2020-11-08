@@ -36,6 +36,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'rails-controller-testing'
   gem 'rspec-rails', '~> 4.0.0.beta2'
+  gem 'rubocop-airbnb'
 end
 
 group :development do
